@@ -1,0 +1,9 @@
+discord.py==2.4.0
+pyinstaller==6.10.0
+opencv-python==4.10.0.84
+pillow==11.0.0
+pynput==1.7.7
+requests==2.32.3
+pycryptodome==3.21.0
+psutil==6.0.0
+pyaudio==0.2.14
